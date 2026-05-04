@@ -8,13 +8,13 @@
   "orientation": "portrait",
   "icons": [
     {
-      "src": "",
+      "src": "https://vercel.com/ari-surahmans-projects/uang-saku",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "",
+      "src": "https://vercel.com/ari-surahmans-projects/uang-saku",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
